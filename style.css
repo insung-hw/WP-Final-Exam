@@ -6,7 +6,7 @@ body {
 .header {
     display: flex;
     /* gap: 120px; */
-    margin-bottom: 1px;
+    margin-bottom: 10px;
     font-size: 14px;
     background-color: #FAEBD7;
     justify-content: space-between;
